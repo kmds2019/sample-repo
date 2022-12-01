@@ -9,4 +9,4 @@ git branch -m main]
 6. git remote add origin "https://github.com/kmds2019/sample-repo.git" (to set central repository as origin)
 7. git pull origin main (To pull code from central repository to local.
 This command will copy all the files from the "main" branch of remote repository to your local repository)
-8. git pull origin main
+8. git push origin main (token to be used "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" - token valid till 30 dec 2022)
