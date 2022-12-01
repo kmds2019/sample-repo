@@ -1,0 +1,12 @@
+1. git init (to create .git dir and tree) [initial branch will be 'master'. I have changed it to 'main' using the command
+git branch -m main]
+2. git config --global user.name mandayk
+   git config --global user.email mandayk@gmail.com
+
+3. git status (to check if there are any files not added)
+4. git add -A (to add all the files to index)
+5. git commit -a -m "third" (to commit all the changes to local)
+6. git remote add origin "https://github.com/kmds2019/sample-repo.git" (to set central repository as origin)
+7. git pull origin main (To pull code from central repository to local.
+This command will copy all the files from the "main" branch of remote repository to your local repository)
+8. git pull origin main
